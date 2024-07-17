@@ -5,14 +5,70 @@ Imagine a desktop application that efficiently and effortlessly streamlines your
 <h2>
 There are some pictures that show what the Application looks like:
 </h2>
-1-Loading Page:<br>             https://github.com/user-attachments/assets/6cb68455-2cd3-46dd-8b65-a9a689162786<br>
-2-Role Page:<br>                https://github.com/user-attachments/assets/fc50a51e-7014-4692-8aff-b428c372220b<br>
-3-Login Page:<br>               https://github.com/user-attachments/assets/b692a5be-d15e-47f6-b1e1-2e8cbfb32dc3<br>
-4-Main Page:<br>                https://github.com/user-attachments/assets/55af699e-b9d9-47bf-b991-515225e37700<br>
-5-Librarians Page:<br>          https://github.com/user-attachments/assets/58c325ee-f746-4cdb-aff9-fde159658abf<br>
-6-Student Page:<br>             https://github.com/user-attachments/assets/4a687274-60c5-4399-bdb1-792fe48428c8<br>
-7-Books Page:<br>               https://github.com/user-attachments/assets/3ee686cd-0c75-48c2-b5b9-725d925f85ba<br>
-8-OutDoor Books Page:<br>       https://github.com/user-attachments/assets/b65d2219-38aa-4490-962e-35a47bad669c<br>
+1-Loading Page:<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/6cb68455-2cd3-46dd-8b65-a9a689162786">
+    <img src="https://github.com/user-attachments/assets/6cb68455-2cd3-46dd-8b65-a9a689162786" alt="Loading" width="700" >
+  </a>
+</div>
+<br>
+2-Role Page:<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/fc50a51e-7014-4692-8aff-b428c372220b">
+    <img src="https://github.com/user-attachments/assets/fc50a51e-7014-4692-8aff-b428c372220b" alt="Role page" width="700" >
+  </a>
+</div>
+<br>
+3-Login Page:<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/b692a5be-d15e-47f6-b1e1-2e8cbfb32dc3">
+    <img src="https://github.com/user-attachments/assets/b692a5be-d15e-47f6-b1e1-2e8cbfb32dc3" alt="Login" width="700" >
+  </a>
+</div>
+<br>
+4-Main Page:<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/55af699e-b9d9-47bf-b991-515225e37700">
+    <img src="https://github.com/user-attachments/assets/55af699e-b9d9-47bf-b991-515225e37700" alt="Main Page" width="700" >
+  </a>
+</div>
+<br>
+5-Librarians Page:<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/58c325ee-f746-4cdb-aff9-fde159658abf">
+    <img src="https://github.com/user-attachments/assets/58c325ee-f746-4cdb-aff9-fde159658abf" alt="Librarians" width="700" >
+  </a>
+</div>
+<br>
+6-Student Page:<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/4a687274-60c5-4399-bdb1-792fe48428c8">
+    <img src="https://github.com/user-attachments/assets/4a687274-60c5-4399-bdb1-792fe48428c8" alt="Student" width="700" >
+  </a>
+</div>
+<br>
+7-Books Page:<br>
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/3ee686cd-0c75-48c2-b5b9-725d925f85ba">
+    <img src="https://github.com/user-attachments/assets/3ee686cd-0c75-48c2-b5b9-725d925f85ba" alt="Books" width="700" >
+  </a>
+</div>
+<br>
+8-OutDoor Books Page:<br> 
+<br>
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/b65d2219-38aa-4490-962e-35a47bad669c">
+    <img src="https://github.com/user-attachments/assets/b65d2219-38aa-4490-962e-35a47bad669c" alt="Books" width="700" >
+  </a>
+</div>
+<br>
 
 <h2>
 Built by:
