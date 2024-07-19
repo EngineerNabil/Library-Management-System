@@ -23,9 +23,9 @@
   Imagine a desktop application that efficiently and effortlessly streamlines your Library System. It is a smooth tool that offers intuitive features and smooth navigation. This application is your trusted companion, offering an easy-to-use interface that is elegant and practical. With its simple design and powerful capabilities, it turns complex processes into simple and fun experiences. Whether you are a professional or casual user, this desktop application boosts your productivity and brings a sense of ease to your digital life.
 </p>
 
-<h2>
+<h3>
 There are some pictures that show what the Application looks like:
-</h2>
+</h3>
 1-Loading Page:<br>
 <br>
 <div align="center">
